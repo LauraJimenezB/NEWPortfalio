@@ -156,6 +156,9 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 300px;
   justify-content: space-between;
 }
+.content-section{
+  text-align: left;
+}
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
     display: none;

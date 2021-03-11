@@ -170,6 +170,9 @@ h1, h2, h3, h4, h5, h6, figure {
 .btnRedes{
   margin: 15px;
 }
+.btnk{
+  margin-right: 15px;
+}
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
     display: none;

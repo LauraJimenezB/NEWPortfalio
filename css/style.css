@@ -167,6 +167,12 @@ h1, h2, h3, h4, h5, h6, figure {
   display: flex;
   flex-direction: row;
 }
+.flex-row-btn{
+  display: flex;
+  flex-direction: row;
+  height: 45px;
+  width: 350px;
+}
 .btnRedes{
   margin: 15px;
 }

@@ -159,6 +159,17 @@ h1, h2, h3, h4, h5, h6, figure {
 .content-section{
   text-align: left;
 }
+.picture{
+  width:350px;
+  height: 350px;
+}
+.flex-row{
+  display: flex;
+  flex-direction: row;
+}
+.btnRedes{
+  margin: 15px;
+}
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1 {
     display: none;
